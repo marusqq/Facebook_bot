@@ -1,4 +1,4 @@
-#!/usr/bin/python3.8
+#/home/marusqq/.virtualenvs fb-bot
 # -*- coding: UTF-8 -*-
 
 __author__ = "Marius Pozniakovas, Tomas Kučejevas"
